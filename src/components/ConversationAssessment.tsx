@@ -70,7 +70,7 @@ const ConversationAssessment = () => {
       <Card className="max-w-4xl mx-auto bg-white">
         <CardHeader>
           <CardTitle className="text-2xl font-bold text-center text-gray-800">
-            Conversation Assessment Form
+            Patient-Reported Outcome of Conversational Success (PROCS)
           </CardTitle>
         </CardHeader>
         <CardContent>
